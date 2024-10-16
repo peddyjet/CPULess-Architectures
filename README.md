@@ -3,4 +3,5 @@ In this repository, we can share and collaborate on the assessment, excluding an
 
 ## Due Dates
 Project Proposal: 21st November 2024
+
 Final Project: 8th May 2025
